@@ -1,5 +1,8 @@
 Rock Paper Scissors Simple Python Game
 
+
 0 = rock
+
 1 = paper
+
 2 = scissors
