@@ -1,5 +1,5 @@
-Rock Papper Sciccors Simple Python Game
+Rock Paper Scissors Simple Python Game
 
 0 = rock
-1 = papper
-2 = sciccors
+1 = paper
+2 = scissors
